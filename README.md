@@ -36,7 +36,7 @@
 <a href="https://solved.ac/vendetta12/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vendetta12" alt="Solved.ac Profile" width="400px">
 </a>
-<img src="https://github-readme-stats.vercel.app/api?username=tracer12&theme=shadow_green&show_icons=true" alt="Anurag's GitHub stats" width="400px" height="194px">
+<img src="https://github-readme-stats.vercel.app/api?username=tracer12&theme=shadow_green&show_icons=true" alt="Anurag's GitHub stats" width="400px" height="205px">
 
 
 ## AWARD
