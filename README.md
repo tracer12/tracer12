@@ -25,4 +25,5 @@
   <img alt="C Badge" src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=C&logoColor=white">
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vendetta12)](https://solved.ac/vendetta12/)
 </body>
