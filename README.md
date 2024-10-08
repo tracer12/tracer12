@@ -34,13 +34,9 @@
 
 ## SOLVED.AC / GITHUB
 
-<div align="left">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vendetta12" alt="Solved.ac Profile" width="350px">
-</div>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vendetta12" alt="Solved.ac Profile" width="350px" style="margin-right: 50px;">
+<img src="https://github-readme-stats.vercel.app/api?username=tracer12&theme=shadow_green&show_icons=true" alt="Anurag's GitHub stats" width="406px">
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=tracer12&theme=shadow_green&show_icons=true" alt="Anurag's GitHub stats" width="406px">
-</div>
 
 
 
