@@ -1,7 +1,7 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&text=YM)</header>
 
-## USABLE LANGUAGE / TOOL
+## TECH STACK / TOOL
 <!-- Frontend Development -->
 <div>
   <img alt="React Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white">
