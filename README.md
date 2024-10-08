@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&text=YM)
+<header>(https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&text=YM)</header>
 
 
+## TECH STACK
 
 <br>
 <img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white">
