@@ -34,7 +34,8 @@
 
 ## SOLVED.AC / GITHUB
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vendetta12)](https://solved.ac/vendetta12/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tracer12&theme=shadow_green&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=tracer12&theme=shadow_green&show_icons=true" alt="Anurag's GitHub stats" width="500px">
+
 
 ## AWARD
 | 연도 | 대회 | 수상 | 프로젝트 | 역할 |
