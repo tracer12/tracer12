@@ -23,11 +23,11 @@
 <div>
   <img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white">
   <img alt="C Badge" src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=C&logoColor=white">
+
+  
 </div>
-  <!-- Solved.ac Profile -->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vendetta12)](https://solved.ac/vendetta12/)
-  <!-- GitHub Stats -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tracer12&theme=shadow_green&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tracer12&theme=shadow_green&show_icons=true)
 </div>
 
 </body>
