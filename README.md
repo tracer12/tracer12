@@ -1,9 +1,7 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&text=YM)</header>
 
-
-## TECH STACK
-
+## USABLE LANGUAGE / TOOL
 <!-- Frontend Development -->
 <div>
   <img alt="React Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white">
@@ -24,6 +22,12 @@
   <img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white">
   <img alt="C Badge" src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=C&logoColor=white">
 <div>
+
+<div>
+  <img alt="VisualStudioCode Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+  <img alt="visualstudio Badge" src="https://img.shields.io/badge/Visual_Studio-%235C2D91?style=flat-square&logo=visual%20studio&logoColor=white">
+</div>
+
 
 
 <br>
