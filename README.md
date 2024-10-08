@@ -42,9 +42,9 @@
 ## AWARD
 | 연도 | 대회 | 수상 | 프로젝트 | 역할 |
 | :--: | :--: | :--: | :--: | :--: |
-| 2024 | [세종대학교 소프트웨어융합대학<br>연합학술제] | 대상 (1st) | 리눅스 자격증 학습을 위한 교육용 SaaS 플랫폼 | Frontend Developer |
-| 2024 | [세종대학교 소프트웨어융합대학<br>창의설계경진대회] | 최우수상 (2nd) | MongoDB Aggregation 학습 난이도 완화를 위한 기능 개발 | Frontend Developer |
-| 2024 | [세종대학교 창업아이템 경진대회] | 우수상 (3rd) | 리눅스 자격증 학습을 위한 교육용 SaaS 플랫폼 | Frontend Developer |
+| 2024 | [세종대학교 소프트웨어융합대학<br>연합학술제] | 대상 (1st) | 리눅스 자격증 학습을 위한<br>교육용 SaaS 플랫폼 | Frontend Developer |
+| 2024 | [세종대학교 소프트웨어융합대학<br>창의설계경진대회] | 최우수상 (2nd) | MongoDB Aggregation<br>학습 난이도 완화를 위한 기능 개발 | Frontend Developer |
+| 2024 | [세종대학교 창업아이템 경진대회] | 우수상 (3rd) | 리눅스 자격증 학습을 위한<br>교육용 SaaS 플랫폼 | Frontend Developer |
 
 
 
