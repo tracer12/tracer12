@@ -24,15 +24,10 @@
   <img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white">
   <img alt="C Badge" src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=C&logoColor=white">
 </div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Solved.ac Profile -->
-  <a href="https://solved.ac/vendetta12/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vendetta12" alt="Solved.ac Profile" width="48%">
-  </a>
-
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vendetta12)](https://solved.ac/vendetta12/)
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tracer12&theme=shadow_green&show_icons=true" alt="Anurag's GitHub stats" width="48%">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tracer12&theme=shadow_green&show_icons=true)
 </div>
 
 </body>
