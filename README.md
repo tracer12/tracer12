@@ -1,7 +1,7 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&text=YM)</header>
 
-<body>
+
 ## TECH STACK
 
 <!-- Frontend Development -->
@@ -27,12 +27,13 @@
 
 
 <br>
+
 ## SOLVED.AC
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vendetta12)](https://solved.ac/vendetta12/)
 
 <br>
+
 ## GITHUB
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tracer12&theme=shadow_green&show_icons=true)
 
 
-</body>
