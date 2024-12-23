@@ -28,7 +28,7 @@
 ## SOLVED.AC / 프로그래머스 수련중....&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GITHUB
 <p>
   <a href="https://solved.ac/vendetta12/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vendetta12" alt="Solved.ac Profile" width="350px">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vendetta12" alt="Solved.ac Profile">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/tracer12">
